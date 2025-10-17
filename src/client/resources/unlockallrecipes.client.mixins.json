@@ -14,7 +14,6 @@
     "requireAnnotations": true
   },
   "mixins": [
-    "MainMixin2",
     "RecipeManagerInvoker"
   ]
 }
