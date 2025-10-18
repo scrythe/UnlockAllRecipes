@@ -4,8 +4,8 @@
   "package": "dev.scrythe.unlockallrecipes.mixin.client",
   "compatibilityLevel": "JAVA_21",
   "client": [
-    "ClientPacketListenerMixin",
-    "ClientRecipeBookMixin"
+    "ClientRecipeBookMixin",
+    "MultiPlayerGameModeMixin"
   ],
   "injectors": {
     "defaultRequire": 1
